@@ -1,0 +1,21 @@
+.pull-right{
+    float: right;
+    
+}
+.nav-users{
+    padding: 0;
+}
+.nav-users li{
+     list-style: none;
+     display: inline;
+     margin: 0 3px;
+}
+.nav-users li .fa-eye{
+    color: #17a2b8;
+}
+.nav-users li .fa-edit{
+    color: #ffc107;
+}
+.nav-users li .fa-trash-alt{
+    color: #c51527;
+}
